@@ -10,7 +10,6 @@ public class Happy {
 	System.out.println("springmvcDemo 修改的");
 
 	System.out.println("hot_fix");
-	  LineNumberReader s;
 
 }
 }
