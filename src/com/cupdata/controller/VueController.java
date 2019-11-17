@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("vue")
 public class VueController {
 	@RequestMapping("find")
-
+     
       public String find(String name,String password) {
-		return "你好!"+name;  
+		return "你好111!"+name;  
 
 
       }
