@@ -9,6 +9,7 @@ public class VueController {
 	@RequestMapping("find")
       public String find(String name,String passwor) {
 		return "你好!"+name;
+
     	  
       }
 }
